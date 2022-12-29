@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/%7BReal-App%7D/static/css/main.3ff7a732.css",
-    "main.js": "/%7BReal-App%7D/static/js/main.77bca4fb.js",
-    "static/js/787.e66666a5.chunk.js": "/%7BReal-App%7D/static/js/787.e66666a5.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/%7BReal-App%7D/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/bootstrap-icons.woff2?": "/%7BReal-App%7D/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "index.html": "/%7BReal-App%7D/index.html",
-    "main.3ff7a732.css.map": "/%7BReal-App%7D/static/css/main.3ff7a732.css.map",
-    "main.77bca4fb.js.map": "/%7BReal-App%7D/static/js/main.77bca4fb.js.map",
-    "787.e66666a5.chunk.js.map": "/%7BReal-App%7D/static/js/787.e66666a5.chunk.js.map"
+    "main.css": "/Real-App/static/css/main.069df635.css",
+    "main.js": "/Real-App/static/js/main.b17fda0c.js",
+    "static/js/787.e66666a5.chunk.js": "/Real-App/static/js/787.e66666a5.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Real-App/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/Real-App/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/Real-App/index.html",
+    "main.069df635.css.map": "/Real-App/static/css/main.069df635.css.map",
+    "main.b17fda0c.js.map": "/Real-App/static/js/main.b17fda0c.js.map",
+    "787.e66666a5.chunk.js.map": "/Real-App/static/js/787.e66666a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ff7a732.css",
-    "static/js/main.77bca4fb.js"
+    "static/css/main.069df635.css",
+    "static/js/main.b17fda0c.js"
   ]
 }
